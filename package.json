@@ -1,0 +1,19 @@
+{
+  "name": "bouquet-generator",
+  "version": "1.0.0",
+  "description": "Bouquet Generator App",
+  "main": "index.js",
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mostafa Shawki",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "i": "^0.3.6",
+    "inquirer": "^6.2.0",
+    "mongoose": "^5.3.7",
+    "npm": "^6.4.1"
+  }
+}
