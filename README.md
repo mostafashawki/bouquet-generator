@@ -9,7 +9,7 @@ npm install
 node commands.js add
 #### then for example add these two bouquet spec one by one:
 ZLb8c6a7<br />
-ZLb8c6a7
+XSl5m4n3
 
 #### To update flower stock, then generate bouquets and add bouquet stock
 node commands.js update
